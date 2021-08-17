@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏼‍💻 I'm a coding bootcamp graduate trying to gain and further expand my experience in full-stack software development.
+- 👩🏼‍💻 I'm working towards a career switch into Software Engineering and Programming.
 - 🌱 Currently learning React and Node.js.
 - 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
 - 😄 Pronouns: she/her
@@ -16,6 +16,6 @@
 
 ##
 
- ![Snake animation](https://github.com/daniele-frade)
+ ![Snake animation](https://github.com/daniele-frade/daniele-frade/blob/output/github-contribution-grid-snake.svg)
 
 
