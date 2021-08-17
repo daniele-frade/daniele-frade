@@ -1,21 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Daniele Frade 😀
 
 - 👩🏼‍💻 I'm working towards a career switch into Software Engineering and Programming.
 - 🌱 Currently learning React and Node.js.
 - 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
-- 😄 Pronouns: she/her
 
-
+<!-- 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dani-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Dani-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dani-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Dani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dani-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Dani-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniele-frade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniele-frade&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-</div>
+-->
 
-##
-
- ![Snake animation](https://github.com/daniele-frade/daniele-frade/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/daniele-frade/daniele-frade/blob/output/github-contribution-grid-snake.svg)-->
 
 
