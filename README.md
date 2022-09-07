@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniele Frade 😀
 
-- 👩🏼‍💻 I'm working towards a career switch into Software Engineering and Programming.
-- 🌱 Currently learning React and Node.js.
+- 👩🏼‍💻 I'm working towards a career switch into Software Engineering and Front-End Development.
+- 🌱 Currently learning React and Next.js.
 - 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
 
 <!-- 
