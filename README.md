@@ -3,6 +3,7 @@
 - 👩🏼‍💻 I'm working towards a career switch into Web Development.
 - 🌱 Currently learning Front-End technologies.
 - 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
+- 💻 Frontend Mentor Profile: https://www.frontendmentor.io/profile/daniele-frade
 
 <!-- 
 <div style="display: inline_block"><br>
