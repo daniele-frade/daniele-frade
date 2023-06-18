@@ -1,9 +1,8 @@
 ### Hi there, I'm Daniele Frade 😀
 
-- 👩🏼‍💻 I'm working towards improving my career in Web Development.
-- 🌱 Currently learning Front-End technologies.
+- 👩🏼‍💻 I'm working towards improving my career in Software Development.
+- 🌱 Currently learning the basics of programming with C and Front-End technologies.
 - 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
-- 💻 Frontend Mentor Profile: https://www.frontendmentor.io/profile/daniele-frade
 
 <!-- 
 <div style="display: inline_block"><br>
