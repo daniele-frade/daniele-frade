@@ -1,11 +1,11 @@
 ### Hi there, I'm Daniele Frade 😀
 
 - 👩🏼‍💻 I'm working towards improving my career in Software Development.
-- 🌱 Currently learning the basics of programming with C and Front-End technologies.
 - 🖥️ Student at [42 São Paulo](https://www.42sp.org.br/).
+- 🌱 Currently learning the basics of programming with C and Front-End technologies.
 - 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
 
-<!-- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Dani-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Dani-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Dani-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
--->
+
 
 <!--![Snake animation](https://github.com/daniele-frade/daniele-frade/blob/output/github-contribution-grid-snake.svg)-->
 
