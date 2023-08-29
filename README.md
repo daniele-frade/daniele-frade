@@ -1,4 +1,4 @@
-### Hi there, I'm Daniele Frade 😀
+### Hi there, I'm Daniele Frade 🙂
 
 - 👩🏼‍💻 I'm working towards improving my career in Software Engineering.
 - 🖥️ Student at [42 São Paulo](https://www.42sp.org.br/).
