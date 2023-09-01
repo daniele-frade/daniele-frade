@@ -3,7 +3,7 @@
 - 👩🏼‍💻 I'm working towards improving my career in Software Engineering.
 - 🖥️ Student at [42 São Paulo](https://www.42sp.org.br/).
 - 🌱 Currently learning the basics of programming with C and Web Development technologies.
-- 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade/ 
+- 📫 How to reach me: daniele.fradee@gmail.com | https://www.linkedin.com/in/daniele-frade
 
 
 <div style="display: inline_block"><br>
