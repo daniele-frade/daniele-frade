@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniele Frade 🙂
 
-- 👩🏼‍💻 I'm working towards improving my career in Software Engineering.
+- 👩🏼‍💻 I'm working towards improving my career as a Software Engineer.
 - 🖥️ Student at [42 São Paulo](https://www.42sp.org.br/).
 - 🌱 Currently learning the basics of programming with C and Web Development technologies.
 - 📫 How to reach me: daniele.fradee@gmail.com | [linkedin.com/in/daniele-frade](https://www.linkedin.com/in/daniele-frade/)
